@@ -1,5 +1,5 @@
 ## Sample Manga Website
-This project just my hobby. Because i love read manga/hwa/hua. So i create this project for prototype.
+This project just my hobby. Because i love read manga/hwa/hua. So i create this project for prototype./
 [Try Website](https://kaleidoscopic-monstera-3ff811.netlify.app/)
 
 ### How to Run
